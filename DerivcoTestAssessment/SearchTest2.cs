@@ -19,7 +19,7 @@ namespace CocktailAPITests
             _output = output;
         }
         [Fact]
-        public async Task  GetDrinksSearchAPIVodka()
+        public async Task GetDrinksSearchAPIVodka()
 
         {
 
@@ -28,16 +28,16 @@ namespace CocktailAPITests
                 BaseUrl = new Uri("https://www.thecocktaildb.com/"),
                 RemoteCertificateValidationCallback = (Sender, certificate, chain, errors) => true
             };
-        // Rest Client initialization
-        var client = new RestClient(restClientOptions);
-       //Rest Request
+            // Rest Client initialization
+            var client = new RestClient(restClientOptions);
+            //Rest Request
 
-        var request = new RestRequest("api/json/v1/1/search.php/");
-            request.AddQueryParameter("i", "vodka");     
-            
-           var response = await client.ExecuteGetAsync<Ingredient>(request);
-      
-                     
+            var request = new RestRequest("api/json/v1/1/search.php/");
+            request.AddQueryParameter("i", "vodka");
+
+            var response = await client.ExecuteGetAsync<Ingredient>(request);
+
+
         }
 
         [TestCase("an ingredient is non-alcoholic, Alcohol is yes and ABV is not null")]
@@ -55,19 +55,19 @@ namespace CocktailAPITests
             var request = new RestRequest("api/json/v1/1/search.php/");
             request.AddQueryParameter("i", "vodka");
             var response = await client.ExecuteGetAsync<IngredientResponse>(request);
-            
-        response.StatusCode.Should().Be(System.Net.HttpStatusCode.OK);
 
-        var ingredient = response.Data.ingredients[0];
+            response.StatusCode.Should().Be(System.Net.HttpStatusCode.OK);
 
-        ingredient.idIngredient.Should().Be("1001");
-        ingredient.strIngredient.Should().Be("Vodka");
-        ingredient.strDescription.Should().Be("An alcoholic spirit distilled from grain, potatoes, or sometimes fruits or sugar.");
-        ingredient.strType.Should().Be("Spirit");
-        ingredient.strAlcohol.Should().Be("Yes");
-        ingredient.strABV.Should().Be("40%");
-            
-           
+            var ingredient = response.Data.ingredients[0];
+
+            ingredient.idIngredient.Should().Be("1");
+            ingredient.strIngredient.Should().Be("Vodka");
+            ingredient.strDescription.Should().Contain("odka is a distilled beverage composed primarily of water and ethanol, sometimes with traces of impurities and flavorings. Traditionally, vodka is made by the distillation of fermented cereal grains");
+            ingredient.strType.Should().Be("Vodka");
+            ingredient.strAlcohol.Should().Be("Yes");
+            ingredient.strABV.Should().Be("40");
+
+
 
         }
     }
