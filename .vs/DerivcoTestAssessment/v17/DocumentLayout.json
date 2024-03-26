@@ -6,12 +6,15 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\nalabi\\Derivco\\NodejsConsoleApp1\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|c:\\users\\admin\\source\\repos\\derivcotestassessment\\derivcotestassessment\\searchtest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|solutionrelative:derivcotestassessment\\searchtest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|c:\\users\\admin\\source\\repos\\derivcotestassessment\\derivcotestassessment\\derivcotestassessment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|solutionrelative:derivcotestassessment\\derivcotestassessment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|c:\\users\\admin\\source\\repos\\derivcotestassessment\\derivcotestassessment\\apitesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|solutionrelative:derivcotestassessment\\apitesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|c:\\users\\admin\\source\\repos\\derivcotestassessment\\derivcotestassessment\\searchtest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|solutionrelative:derivcotestassessment\\searchtest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|c:\\users\\admin\\source\\repos\\derivcotestassessment\\derivcotestassessment\\loadtest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -20,6 +23,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|c:\\users\\admin\\source\\repos\\derivcotestassessment\\derivcotestassessment\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EBC4DA2-DC66-4C2F-9586-0850E63B4F51}|DerivcoTestAssessment\\DerivcoTestAssessment.csproj|solutionrelative:derivcotestassessment\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\DerivcoTestAssessment\\DerivcoTestAssessment\\apitesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DerivcoTestAssessment\\apitesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +36,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,13 +44,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-26T12:24:27.588Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\nalabi\\Derivco\\NodejsConsoleApp1\\app.js",
               "RelativeDocumentMoniker": "..\\nalabi\\Derivco\\NodejsConsoleApp1\\app.js",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\nalabi\\Derivco\\NodejsConsoleApp1\\app.js*",
-              "RelativeToolTip": "..\\nalabi\\Derivco\\NodejsConsoleApp1\\app.js*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\nalabi\\Derivco\\NodejsConsoleApp1\\app.js",
+              "RelativeToolTip": "..\\nalabi\\Derivco\\NodejsConsoleApp1\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-03-14T17:41:42.253Z",
               "EditorCaption": ""
@@ -51,45 +70,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DerivcoTestAssessment.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DerivcoTestAssessment\\DerivcoTestAssessment\\DerivcoTestAssessment.csproj",
+              "RelativeDocumentMoniker": "DerivcoTestAssessment\\DerivcoTestAssessment.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DerivcoTestAssessment\\DerivcoTestAssessment\\DerivcoTestAssessment.csproj",
+              "RelativeToolTip": "DerivcoTestAssessment\\DerivcoTestAssessment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T12:08:31.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SearchTest2.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DerivcoTestAssessment\\DerivcoTestAssessment\\SearchTest2.cs",
               "RelativeDocumentMoniker": "DerivcoTestAssessment\\SearchTest2.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\DerivcoTestAssessment\\DerivcoTestAssessment\\SearchTest2.cs",
               "RelativeToolTip": "DerivcoTestAssessment\\SearchTest2.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowBcAAAAIAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:26:59.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T15:26:59.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "apitesting.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DerivcoTestAssessment\\DerivcoTestAssessment\\apitesting.cs",
               "RelativeDocumentMoniker": "DerivcoTestAssessment\\apitesting.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\DerivcoTestAssessment\\DerivcoTestAssessment\\apitesting.cs",
               "RelativeToolTip": "DerivcoTestAssessment\\apitesting.cs",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAcwA8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:23:57.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T15:23:57.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoadTest.js",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DerivcoTestAssessment\\DerivcoTestAssessment\\LoadTest.js",
               "RelativeDocumentMoniker": "DerivcoTestAssessment\\LoadTest.js",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\DerivcoTestAssessment\\DerivcoTestAssessment\\LoadTest.js",
               "RelativeToolTip": "DerivcoTestAssessment\\LoadTest.js",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAxAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-14T14:38:28.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T14:38:28.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DerivcoTestAssessment\\DerivcoTestAssessment\\UnitTest1.cs",
               "RelativeDocumentMoniker": "DerivcoTestAssessment\\UnitTest1.cs",
@@ -97,8 +124,7 @@
               "RelativeToolTip": "DerivcoTestAssessment\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T14:34:14.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T14:34:14.135Z"
             }
           ]
         }
